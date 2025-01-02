@@ -89,7 +89,7 @@ const NavBar = () => {
                         </div>
                         <ul className={`${BigMenuToggle
                             ? "fixed w-full h-full left-0 top-0 pt-10"
-                            : `hidden relative`}  lg:flex items-center justify-end gap-0 xl:gap-4
+                            : `hidden relative`}  lg:flex items-center justify-center gap-0 xl:gap-4
                 text-black font-semibold text-sm bg-white max-xl:pl-2`}>
                             {BigMenuToggle ? (
                                 <>
