@@ -3,7 +3,11 @@ import React from 'react'
 const Top = () => {
     return (
         <>
-            <section></section>
+            <section className='max-w-[1400px] mx-auto px-3'>
+                <div className=''>
+
+                </div>
+            </section>
         </>
     )
 }
