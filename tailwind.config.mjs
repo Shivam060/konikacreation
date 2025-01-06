@@ -18,6 +18,7 @@ export default {
         BG4: "url('/image/main-section/main-3.webp')",
         BG5: "url('/image/main-section/main-4.webp')",
         BG6: "url('/image/main-section/main-5.webp')",
+        BG7: "url('/image/men/mens-1.jpeg')",
       }
     },
   },
