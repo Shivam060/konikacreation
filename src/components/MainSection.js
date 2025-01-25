@@ -48,7 +48,7 @@ const MainSection = () => {
     return (
         <>
             <section
-                className={`h-screen bg-no-repeat bg-cover bg-top relative transition-all duration-700 ${slides[currentIndex].bgClass}`}
+                className={`h-[90vh] bg-no-repeat bg-cover bg-top relative transition-all duration-700 ${slides[currentIndex].bgClass}`}
             >
                 <div className="absolute inset-0 bg-gradient-to-r from-black/90 via-black/50 to-gray-200/30" />
                 <div className="max-w-[1400px] mx-auto px-2 relative z-10 flex flex-col justify-center h-full">
